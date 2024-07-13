@@ -51,10 +51,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Interested in a live demo of our project? Contact us for a personal demo and get all your questions answered.
 
-- **[Join Our Telegram]** : [Telegram](https://web.telegram.org/a/)
-- **WhatsApp** : +923066303835
-- **Instagram** : [Instagram](https://www.instagram.com/chainsoftofficial?utm_source=qr&igshid=MWJ5aG9kY2VtZ3VmNw==)
-
 ## Contact
 
 For any inquiries or support, please contact us:
