@@ -32,7 +32,20 @@ Blockscout currently supports several hundred chains and rollups throughout the 
 [![License: GPL v3.0](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the GNU General Public License v3.0 and the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Buying
+Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/2cb746d8-4e4f-487f-a899-ef8512a70d46" width="200" />
+</p>
+
+## Contributing
+Contributions are welcome! Please create a pull request with your proposed changes and ensure they adhere to the coding standards of the project.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Live Demo
 
@@ -47,7 +60,6 @@ Interested in a live demo of our project? Contact us for a personal demo and get
 For any inquiries or support, please contact us:
 
 - **Website**: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
-- **Telegram**: [Join Our Telegram](https://web.telegram.org/a/)
-- **WhatsApp**: +923066303835
-- **Instagram**: [Instagram](https://www.instagram.com/chainsoftofficial?utm_source=qr&igshid=MWJ5aG9kY2VtZ3VmNw==)
-
+- **Telegram** : [Telegram](https://web.telegram.org/a/)
+- **WhatsApp** : +923066303835
+- **Instagram** : [Instagram](https://www.instagram.com/chainsoft_officiall/)
