@@ -2,7 +2,7 @@
 <p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
 
 <p align="center">
-  <img src="https://github.com/Chainsoft-official/Anti-Counterfeit-Product-Identification-System-Utilizing-Blockchain-Technology/assets/175082161/8eb9fe04-2e50-4d2e-a957-cff3eaec405b" width="200" />
+  <img src="![evm](https://github.com/user-attachments/assets/cc26a221-c09d-4ffe-b2e1-36bf829d9ead)" width="500" height="500" />
 </p>
 
 EVM Blockchain provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM (Ethereum Virtual Machine) blockchains. This includes Ethereum Mainnet, Ethereum Classic, Optimism, Gnosis Chain, and many other **Ethereum testnets, private networks, L2s, and sidechains**.
