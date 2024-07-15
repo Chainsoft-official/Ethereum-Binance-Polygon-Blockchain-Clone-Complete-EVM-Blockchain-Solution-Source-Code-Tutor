@@ -1,38 +1,67 @@
-<h1 align="center">EVM Blockchain</h1>
-<p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
+<h1 align="center">Blockchain</h1>
+<p align="center"> Welcome to **Blockchain**, a state-of-the-art blockchain platform offering a seamless integration of native tokens, an admin explorer, a public explorer, EVM compatibility, and MetaMask support. Whether you're a developer, business, or blockchain enthusiast, MyBlockchain provides the tools you need to create and manage decentralized applications efficiently.
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cc26a221-c09d-4ffe-b2e1-36bf829d9ead" width="800" height="500" />
 </p>
+# MyBlockchain: A Complete Blockchain Solution
 
-EVM Blockchain provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM (Ethereum Virtual Machine) blockchains. This includes Ethereum Mainnet, Ethereum Classic, Optimism, Gnosis Chain, and many other **Ethereum testnets, private networks, L2s, and sidechains**.
+![MyBlockchain Logo](path/to/logo.png)
 
-## About EVM Blockchain
+## Key Features
 
-EVM Blockchain allows users to search transactions, view accounts and balances, verify and interact with smart contracts, and view and interact with applications on the Ethereum network including many forks, sidechains, L2s, and testnets.
+### 1. Native Token
+- **Create and Manage Tokens**: Easily create and manage your own tokens directly on the blockchain.
+- **Secure Transactions**: Enjoy fast and secure transactions with low fees.
+- **Scalability**: Designed to handle high transaction volumes efficiently.
 
-Blockscout is an open-source alternative to centralized, closed-source block explorers such as Etherscan, Etherchain, and others. As Ethereum sidechains and L2s continue to proliferate in both private and public settings, transparent, open-source tools are needed to analyze and validate all transactions.
+### 2. Admin Explorer
+- **User Management**: Admins can manage users, set permissions, and monitor activities.
+- **Dashboard**: Intuitive dashboard for real-time blockchain data and analytics.
+- **Customization**: Tailor the explorer interface to fit your needs with flexible settings.
 
-## Features
+### 3. Public Explorer
+- **Transparency**: Public explorer provides full transparency with real-time blockchain data accessible to everyone.
+- **Search Functionality**: Easily search for transactions, addresses, and blocks.
+- **User-Friendly Interface**: Clean and intuitive design for a seamless user experience.
 
-- **Transaction Search**: Easily search for transactions by hash, block number, or address.
-- **Account and Balance Viewing**: View detailed information about accounts and their balances.
-- **Smart Contract Verification**: Verify the source code of smart contracts and interact with them directly from the explorer.
-- **Network Support**: Supports Ethereum Mainnet, testnets, private networks, L2s, sidechains, and many other EVM-compatible chains.
-- **Open Source**: Fully open-source project licensed under GPL v3.0 and MIT.
-- **Extensive Integration**: Integrates with several hundred chains and rollups across the blockchain ecosystem, including Ethereum, Cosmos, Polkadot, Avalanche, and Near.
-- **User-Friendly Interface**: Clean, intuitive interface for seamless navigation and interaction.
+### 4. EVM Compatibility
+- **Smart Contracts**: Deploy and manage Ethereum-compatible smart contracts effortlessly.
+- **Interoperability**: Interact with existing Ethereum dApps and tools.
+- **Developer-Friendly**: Leverage the power of Solidity and existing Ethereum libraries.
 
-## Supported Projects
+### 5. MetaMask Compatibility
+- **Wallet Integration**: Seamlessly integrate with MetaMask for secure and convenient transactions.
+- **dApp Support**: Easily connect with decentralized applications through MetaMask.
+- **User Onboarding**: Simplified user onboarding process with MetaMask integration.
 
-Blockscout currently supports several hundred chains and rollups throughout the greater blockchain ecosystem. Ethereum, Cosmos, Polkadot, Avalanche, Near and many others include Blockscout integrations. [A comprehensive list is available here](https://www.chainsoft.pk/). If your project is not listed, please submit a PR or [contact the team in Discord](https://discord.gg/vjD2W693).
+## Getting Started
 
-## License
+### Prerequisites
+- Node.js
+- npm or yarn
+- MetaMask extension installed
 
-[![License: GPL v3.0](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+### Installation
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+# Clone the repository
+git clone https://github.com/yourusername/myblockchain.git
+
+# Navigate to the project directory
+cd myblockchain
+
+# Install dependencies
+npm install
+
+# Start the blockchain
+npm run start
+
+# Compile smart contracts
+npm run compile
+
+# Deploy smart contracts
+npm run deploy
 
 ## Buying
 Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
