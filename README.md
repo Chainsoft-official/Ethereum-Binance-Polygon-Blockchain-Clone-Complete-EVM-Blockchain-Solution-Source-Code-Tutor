@@ -45,22 +45,22 @@
 
 ### Installation
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/Chainsoft-official/Blockchain.git
 
-# Navigate to the project directory
+### Navigate to the project directory
 cd myblockchain
 
-# Install dependencies
+### Install dependencies
 npm install
 
-# Start the blockchain
+### Start the blockchain
 npm run start
 
-# Compile smart contracts
+### Compile smart contracts
 npm run compile
 
-# Deploy smart contracts
+### Deploy smart contracts
 npm run deploy
 
 ## Buying
