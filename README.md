@@ -46,7 +46,7 @@
 ### Installation
 
 # Clone the repository
-git clone https://github.com/Chainsoftofficial /blockchain.git
+git clone https://github.com/Chainsoft-official/Blockchain.git
 
 # Navigate to the project directory
 cd myblockchain
