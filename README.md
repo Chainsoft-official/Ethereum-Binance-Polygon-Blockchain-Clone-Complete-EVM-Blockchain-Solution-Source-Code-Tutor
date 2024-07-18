@@ -23,7 +23,7 @@ Are you looking to create a robust and scalable blockchain for your business? Lo
 
 Watch our comprehensive demo video to see our blockchain development service in action:
 
-[![Watch the demo video](https://github.com/Chainsoft-official/EVM-Compatible-Blockchain-Solutions/blob/main/Folder/youtubeTumbnail.jpg)](https://www.youtube.com/watch?v=nhH_FeDMeEU)
+[![Watch the demo video](https://github.com/Chainsoft-official/Ethereum-Binance-Polygon-Blockchain-Clone-Complete-EVM-Blockchain-Solution-Source-Code-Tutor/blob/main/Folder/John%20smith%20(1).png)](https://www.youtube.com/watch?v=nhH_FeDMeEU)
 
 ## 💼 Why Choose Us?
 
