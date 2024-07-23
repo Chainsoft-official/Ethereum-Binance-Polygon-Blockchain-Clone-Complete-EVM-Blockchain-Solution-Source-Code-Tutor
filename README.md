@@ -36,9 +36,7 @@ Watch our comprehensive demo video to see our blockchain development service in 
 Ready to take your business to the next level with our blockchain development service? Contact us today to get started!
 
 
-- **Telegram**: [Telegram](https://web.telegram.org/a/)
 - **WhatsApp**: +923066303835
-- **Instagram**: [Instagram](https://www.instagram.com/chainsoft_off
 
 ## 🛒 Buying
 
